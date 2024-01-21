@@ -7,3 +7,5 @@ if (numeroSecreto == palpite) {
 } else {
     alert('você errou')
 }
+
+// falta de atualizações hoje
